@@ -1,5 +1,6 @@
 # FoodOrdering- e-Commerce
 Online Food Ordering System using PHP
+Features:  Tcpdf, PhpMailer, ReCaptcha, PHP PDO, PayPal Sandbox Payment
 
 ![WeChat Screenshot_20210614191449](https://user-images.githubusercontent.com/37948472/121884182-32951280-cd45-11eb-8069-f246e2b00678.png)
 ![WeChat Screenshot_20210614191524](https://user-images.githubusercontent.com/37948472/121884194-36289980-cd45-11eb-9cf9-701f9c56f0da.png)
